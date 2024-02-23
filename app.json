@@ -13,23 +13,23 @@
   "env": {
     "ALIVE_NAME": {
       "description": "give your name",
-      "value": ""
+      "value": "VADA VADA BAN"
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "27015273"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "72fb3071a7e8de109f5f9e57f18502ed"
     },
     "STRING_SESSION": {
       "description": "Get this value by running python3 stringsetup.py locally or https://generatestringsession.sandeep1709.repl.run",
-      "value": ""
+      "value": "1BVtsOIMBuwnWCPnZ9ba8WtUXJgt2KPCx_bfVOyqXJ038jBV5u4inEduEXNs4i7gJB24hW8qxL_-45e1cpBT-uuzAvmTz4uSYOaqlZCVv7n7yB5gZUCUgC70qIgr9hqiDzUwBmBeuOgmktJHz92357q-Lm2-GBWUJkvjgQM46ZHbwZPa5a2RzNj5HfxF7hBFlzb_04yNtF7yb5AW-amD2urs90ZwSwLXqPSCZ35LJrv6MOtNxNxk5QNzq-whdNLQwb3y5GUtpsgEJhlEibRQKzwpCLPLhmXaqaXPkEHokQHG-4G73whFWYVgDq77TJrL2GgXBjLQIubeliPxE0DyHnnzSsKVmaJw="
     },
     "TG_BOT_TOKEN": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.",
-      "value": ""
+      "value": "6737348390:AAGyWjOK_LNyD-l5Mb6XCmoXQS2JMyaJvMc"
     },
     "COMMAND_HAND_LER": {
       "description": "Set this one with only one the symbol to use it before your command to run like . , ' `",
@@ -43,7 +43,7 @@
     },
     "HEROKU_API_KEY": {
       "description": "Required for updating the bot and other stuff get it from https://dashboard.heroku.com/account",
-      "value": "",
+      "value": "9fc8364b-f72c-4f7e-8214-9dffcd1d5c85",
       "required": false
     },
     "HEROKU_APP_NAME": {
@@ -53,7 +53,7 @@
     },
     "TZ": {
       "description": "Required for Correct Time on autopic/get time. Know your timezone from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
-      "value": "Asia/Kolkata",
+      "value": "Asia/Colombo",
       "required": false
     },
     "EXTERNAL_REPO": {
@@ -63,7 +63,7 @@
     },
     "BADCAT": {
       "description": "set 'True' to install 18+ plugins.",
-      "value": "False",
+      "value": "true",
       "required": false
     }
   },
